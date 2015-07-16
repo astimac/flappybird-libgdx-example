@@ -1,0 +1,122 @@
+
+flipflop.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1, 169
+  size: 480, 853
+  orig: 480, 853
+  offset: 0, 0
+  index: -1
+dialog
+  rotate: false
+  xy: 483, 659
+  size: 452, 363
+  orig: 452, 363
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 483, 361
+  size: 444, 296
+  orig: 444, 296
+  offset: 0, 0
+  index: -1
+get_ready
+  rotate: false
+  xy: 1, 32
+  size: 425, 135
+  orig: 425, 135
+  offset: 0, 0
+  index: -1
+game_over
+  rotate: false
+  xy: 483, 251
+  size: 406, 108
+  orig: 406, 108
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 929, 131
+  size: 88, 526
+  orig: 88, 526
+  offset: 0, 0
+  index: -1
+tap_start
+  rotate: false
+  xy: 483, 210
+  size: 251, 39
+  orig: 251, 39
+  offset: 0, 0
+  index: -1
+btn_play
+  rotate: false
+  xy: 483, 1
+  size: 206, 207
+  orig: 206, 207
+  offset: 0, 0
+  index: -1
+btn_score
+  rotate: false
+  xy: 736, 126
+  size: 190, 123
+  orig: 190, 123
+  offset: 0, 0
+  index: -1
+go_play_btn
+  rotate: false
+  xy: 691, 30
+  size: 144, 94
+  orig: 144, 94
+  offset: 0, 0
+  index: -1
+go_scores_btn
+  rotate: false
+  xy: 837, 30
+  size: 144, 94
+  orig: 144, 94
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 937, 955
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 937, 886
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1019, 1018
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1019, 1012
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+
+flipflop2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_bg
+  rotate: false
+  xy: 1, 1
+  size: 646, 210
+  orig: 646, 210
+  offset: 0, 0
+  index: -1
